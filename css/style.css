@@ -1,0 +1,15 @@
+.position_form{
+    max-width: 21%;
+    margin: auto;
+    margin-top: 168px;
+}
+.position_index{
+    width: 16%;
+    margin: auto;
+    margin-top: 260px;
+}
+h5{
+    color: #0a53be;
+    position: relative;
+    left: 27px;
+}
